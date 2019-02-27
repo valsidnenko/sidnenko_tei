@@ -1,7 +1,7 @@
 <TEI> 
 <teiHeader>
 <fileDesc> 
-
+<listPerson type="bookish">
 <person xml:id="1">
  <persName>
   <forename> Душенька </forename>
@@ -27,7 +27,7 @@
   <forename> Амур </forename>
  </persName>
 </person>
-
+</listPerson>
 <titleStmt> 
 <title> Душенька </title> 
 </titleStmt> 
@@ -38,7 +38,6 @@
 </fileDesc> 
 </teiHeader> 
 <text> 
-
 Судьбы и боги все, определяя так,
 Сыскать его дают особо верный знак:
 <person xml:id="1"> Царевну </person> пусть везут на самую вершину
